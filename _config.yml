@@ -1,0 +1,8 @@
+title: tommengdel.GitHub.io
+description: Blog
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
